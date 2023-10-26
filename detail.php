@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +8,11 @@
     <link rel="stylesheet" href="css/style.css">
     <script src="js/script.js"></script>
 </head>
+
 <body>
+    <?php
+    include("nav.php");
+    ?>
     <div class="container_dp flex">
         <div class="img_col flex col">
             <a href="detail.php">
@@ -35,7 +40,7 @@
                     <img src="assets/images/download (1).jpeg" alt="">
                 </div>
             </a>
-            
+
         </div>
         <div class="img_product_dp">
             <img src="assets/images/download (2).jpeg" alt="">
@@ -63,4 +68,5 @@
         </div>
     </div>
 </body>
+
 </html>

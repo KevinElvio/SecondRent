@@ -10,6 +10,9 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
 </head>
     <body>
+    <?php
+    include("nav.php");
+    ?>
         <div class="form">
           <div class="login_box">
             <h1>Login</h1>
