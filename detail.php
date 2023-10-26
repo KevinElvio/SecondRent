@@ -10,7 +10,7 @@
 <body>
     <div class="container_dp flex">
         <div class="img_col flex col">
-            <a href="">
+            <a href="detail.php">
                 <div class="img_dp_col">
                     <img src="assets/images/download (1).jpeg" alt="">
                 </div>
@@ -37,7 +37,7 @@
             </a>
             
         </div>
-        <div class="img_product">
+        <div class="img_product_dp">
             <img src="assets/images/download (2).jpeg" alt="">
         </div>
         <div class="content_detail_product">
