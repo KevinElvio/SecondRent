@@ -13,7 +13,7 @@
     </div>
    <div class="wellcome flex align-center col">
     <div class="wellcome_content flex col justify-center">
-        <h1 class="top_h1">hi! >w<</h1>
+        <h1 class="top_h1">Hi! </h1>
         <h1>Wellcome to SecondRent</h1>
     </div>
 </div>
@@ -26,26 +26,23 @@
                     <p>Top Rate</p>
                 </div>
             </a>
+ 
             <a href="">
                 <div class="filter_box">
-                    <p>Top Rate</p>
+                    <p>Favorite</p>
                 </div>
             </a>
             <a href="">
                 <div class="filter_box">
-                    <p>Top Rate</p>
-                </div>
-            </a>
-            <a href="">
-                <div class="filter_box">
-                    <p>Top Rate</p>
+                    <p>Top Price</p>
                 </div>
             </a>
         </div>
         <div class="content_product flex flex-wrap">
+         <a href="">
             <div class="content_product_card">
                 <div class="img_product flex col align-center">
-                    <img src="assets/images/a.png" alt="">
+                    <img src="assets/images/443496_DTDIT_1000_001_066_0000_Light.avif" alt="">
                 </div>
                <div class="title_content">
                 <h1>
@@ -58,9 +55,28 @@
                </div>
             
             </div>
+         </a>
+            <a href="">
+                <div class="content_product_card">
+                    <div class="img_product flex col align-center">
+                        <img src="assets/images/download (1).jpeg" alt="">
+                    </div>
+                   <div class="title_content">
+                    <h1>
+                        name_product
+                    </h1>
+                    <p class="desc_content">description product</p>
+                    <div class="harga flex">
+                        <p>Rp.</p><p>5000</p> 
+                    </div>
+                   </div>
+                
+                </div>
+            </a>
+           <a href="">
             <div class="content_product_card">
                 <div class="img_product flex col align-center">
-                    <img src="assets/images/a.png" alt="">
+                    <img src="assets/images/download (2).jpeg" alt="">
                 </div>
                <div class="title_content">
                 <h1>
@@ -73,81 +89,93 @@
                </div>
             
             </div>
-            <div class="content_product_card">
-                <div class="img_product flex col align-center">
-                    <img src="assets/images/a.png" alt="">
+           </a>
+            <a href="">
+                <div class="content_product_card">
+                    <div class="img_product flex col align-center">
+                        <img src="assets/images/download.jpeg" alt="">
+                    </div>
+                   <div class="title_content">
+                    <h1>
+                        name_product
+                    </h1>
+                    <p class="desc_content">description product</p>
+                    <div class="harga flex">
+                        <p>Rp.</p><p>5000</p> 
+                    </div>
+                   </div>
+                
                 </div>
-               <div class="title_content">
-                <h1>
-                    name_product
-                </h1>
-                <p class="desc_content">description product</p>
-                <div class="harga flex">
-                    <p>Rp.</p><p>5000</p> 
+            </a>
+            <a href="">
+                <div class="content_product_card">
+                    <div class="img_product flex col align-center">
+                        <img src="assets/images/443496_DTDIT_1000_001_066_0000_Light.avif" alt="">
+                    </div>
+                   <div class="title_content">
+                    <h1>
+                        name_product
+                    </h1>
+                    <p class="desc_content">description product</p>
+                    <div class="harga flex">
+                        <p>Rp.</p><p>5000</p> 
+                    </div>
+                   </div>
+                
                 </div>
-               </div>
-            
-            </div>
-            <div class="content_product_card">
-                <div class="img_product flex col align-center">
-                    <img src="assets/images/a.png" alt="">
+             </a>
+                <a href="">
+                    <div class="content_product_card">
+                        <div class="img_product flex col align-center">
+                            <img src="assets/images/download (1).jpeg" alt="">
+                        </div>
+                       <div class="title_content">
+                        <h1>
+                            name_product
+                        </h1>
+                        <p class="desc_content">description product</p>
+                        <div class="harga flex">
+                            <p>Rp.</p><p>5000</p> 
+                        </div>
+                       </div>
+                    
+                    </div>
+                </a>
+               <a href="">
+                <div class="content_product_card">
+                    <div class="img_product flex col align-center">
+                        <img src="assets/images/download (2).jpeg" alt="">
+                    </div>
+                   <div class="title_content">
+                    <h1>
+                        name_product
+                    </h1>
+                    <p class="desc_content">description product</p>
+                    <div class="harga flex">
+                        <p>Rp.</p><p>5000</p> 
+                    </div>
+                   </div>
+                
                 </div>
-               <div class="title_content">
-                <h1>
-                    name_product
-                </h1>
-                <p class="desc_content">description product</p>
-                <div class="harga flex">
-                    <p>Rp.</p><p>5000</p> 
-                </div>
-               </div>
-            
-            </div>
-            <div class="content_product_card">
-                <div class="img_product flex col align-center">
-                    <img src="assets/images/a.png" alt="">
-                </div>
-               <div class="title_content">
-                <h1>
-                    name_product
-                </h1>
-                <p class="desc_content">description product</p>
-                <div class="harga flex">
-                    <p>Rp.</p><p>5000</p> 
-                </div>
-               </div>
-            
-            </div>
-            <div class="content_product_card">
-                <div class="img_product flex col align-center">
-                    <img src="assets/images/a.png" alt="">
-                </div>
-               <div class="title_content">
-                <h1>
-                    name_product
-                </h1>
-                <p class="desc_content">description product</p>
-                <div class="harga flex">
-                    <p>Rp.</p><p>5000</p> 
-                </div>
-               </div>
-            
-            </div>
-            <div class="content_product_card">
-                <div class="img_product flex col align-center">
-                    <img src="assets/images/a.png" alt="">
-                </div>
-               <div class="title_content">
-                <h1>
-                    name_product
-                </h1>
-                <p class="desc_content">description product</p>
-                <div class="harga flex">
-                    <p>Rp.</p><p>5000</p> 
-                </div>
-               </div>
-            
-            </div>
+               </a>
+                <a href="">
+                    <div class="content_product_card">
+                        <div class="img_product flex col align-center">
+                            <img src="assets/images/download.jpeg" alt="">
+                        </div>
+                       <div class="title_content">
+                        <h1>
+                            name_product
+                        </h1>
+                        <p class="desc_content">description product</p>
+                        <div class="harga flex">
+                            <p>Rp.</p><p>5000</p> 
+                        </div>
+                       </div>
+                    
+                    </div>
+                </a>
+           
         </div>
     </div>
    
