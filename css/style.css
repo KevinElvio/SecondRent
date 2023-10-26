@@ -164,11 +164,16 @@ body{
     width: 80px;
     object-fit: cover;
 }
-.img_product{
+.img_product_dp{
     padding-left: 80px;
     width: 500px;
     height: 500px;
 }
+.img_product_dp img{
+    width: 100%;
+    height: 100%;
+}
+
 
 
 .content_detail_product{
